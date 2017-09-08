@@ -10,6 +10,7 @@ namespace Hello2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is my first Git program2");
             Console.WriteLine("This is my first Git program");
         }
     }
