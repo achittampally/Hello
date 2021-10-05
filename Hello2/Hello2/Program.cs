@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Hello2
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("This is my first Git program2");
             Console.WriteLine("This is my first Git program");
+
+			Console.WriteLine(Addition.AddMethod(1, 2));
         }
     }
 }
