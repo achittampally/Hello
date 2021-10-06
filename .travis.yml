@@ -1,2 +1,2 @@
 language: csharp
-solution: Hello/Hello2.sln
+solution: ./Hello/Hello2.sln
