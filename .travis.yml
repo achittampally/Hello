@@ -1,0 +1,2 @@
+language: csharp
+solution: ./Hello/Hello2.sln
