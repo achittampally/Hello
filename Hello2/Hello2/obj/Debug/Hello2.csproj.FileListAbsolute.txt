@@ -6,3 +6,9 @@ c:\users\achittampally\documents\visual studio 2015\Projects\Hello2\Hello2\obj\D
 C:\Users\achittampally\Source\Repos\Hello\Hello2\Hello2\bin\Debug\Hello2.exe.config
 C:\Users\achittampally\Source\Repos\Hello\Hello2\Hello2\obj\Debug\Hello2.exe
 C:\Users\achittampally\Source\Repos\Hello\Hello2\Hello2\obj\Debug\Hello2.pdb
+C:\2021-BDNA\Repo\Hello\Hello2\Hello2\bin\Debug\Hello2.exe.config
+C:\2021-BDNA\Repo\Hello\Hello2\Hello2\bin\Debug\Hello2.exe
+C:\2021-BDNA\Repo\Hello\Hello2\Hello2\bin\Debug\Hello2.pdb
+C:\2021-BDNA\Repo\Hello\Hello2\Hello2\obj\Debug\Hello2.csproj.CoreCompileInputs.cache
+C:\2021-BDNA\Repo\Hello\Hello2\Hello2\obj\Debug\Hello2.exe
+C:\2021-BDNA\Repo\Hello\Hello2\Hello2\obj\Debug\Hello2.pdb
